@@ -2,12 +2,25 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!-- Primary Meta Tags -->
+<title>Cyber Month | Virtual Experience Program By UpgradeMore</title>
+<meta name="title" content="Cyber Month | Virtual Experience Program By UpgradeMore">
+<meta name="description" content="Take a Cyber Coaster Ride this February full of Sessions, Events, Labs, Mentorship, Networking, Virtual Certification Program & many more. Opportunity to Network and Hangout with other Cyber Freak individuals.">
 
-  <title>Cyber Month | Virtual Experience Program By UpgradeMore</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://labs.upgrademore.com/">
+<meta property="og:title" content="Cyber Month | Virtual Experience Program By UpgradeMore">
+<meta property="og:description" content="Take a Cyber Coaster Ride this February full of Sessions, Events, Labs, Mentorship, Networking, Virtual Certification Program & many more. Opportunity to Network and Hangout with other Cyber Freak individuals.">
+<meta property="og:image" content="https://upgrademore.com/images/metathumb.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://labs.upgrademore.com/">
+<meta property="twitter:title" content="Cyber Month | Virtual Experience Program By UpgradeMore">
+<meta property="twitter:description" content="Take a Cyber Coaster Ride this February full of Sessions, Events, Labs, Mentorship, Networking, Virtual Certification Program & many more. Opportunity to Network and Hangout with other Cyber Freak individuals.">
+<meta property="twitter:image" content="https://upgrademore.com/images/metathumb.png">
+
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
