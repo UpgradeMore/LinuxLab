@@ -1768,7 +1768,7 @@
 
   <!-- Custom styles for this template-->
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+	    <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-FB9KDHXS7J"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
@@ -1783,7 +1783,7 @@
             width: 100px !important;
         }
     </style>
-    </head>
+</head>
 <body style="background-color: #0d0d0d;">
   <!-- ======= Hero Section ======= -->
   <section class="hero" id="hero">
